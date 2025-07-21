@@ -1,0 +1,14 @@
+streamlit
+openai
+pandas
+python-docx
+PyMuPDF
+tiktoken
+requests
+pydantic
+matplotlib
+scikit-learn
+python-pptx
+sqlalchemy
+pytesseract
+Pillow

@@ -1,0 +1,17 @@
+{
+  "sokfras": {
+    "orLista": [
+      "hyresrätt",
+      "uppsägning",
+      "skadestånd"
+    ]
+  },
+  "filter": {
+    "intervall": {
+      "fromDatum": "2020-01-01"
+    },
+    "rattsomradeLista": [
+      "Hyres- och arrendenämndsmål"
+    ]
+  }
+}

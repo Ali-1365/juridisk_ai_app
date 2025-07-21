@@ -1,0 +1,40 @@
+{
+  "sokparametrar": [
+    {
+      "namn": "Processrätt – hyresrätt, uppsägning, skadestånd",
+      "sokfras": {
+        "orLista": [
+          "hyresrätt",
+          "uppsägning",
+          "skadestånd"
+        ]
+      },
+      "filter": {
+        "intervall": {
+          "fromDatum": "2020-01-01"
+        },
+        "rattsomradeLista": [
+          "Fastighetsrätt"
+        ]
+      }
+    },
+    {
+      "namn": "Hyres- och arrendenämndsmål",
+      "sokfras": {
+        "orLista": [
+          "hyresavtal",
+          "lokalhyra",
+          "avflyttning"
+        ]
+      },
+      "filter": {
+        "intervall": {
+          "fromDatum": "2020-01-01"
+        },
+        "rattsomradeLista": [
+          "Hyres- och arrendenämndsmål"
+        ]
+      }
+    }
+  ]
+}
